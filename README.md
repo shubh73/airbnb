@@ -12,7 +12,7 @@
 
 > The clone is integrated with search functionality and mapbox-gl. Do have fun with the search and the dark theme.
 
-### ✨ [Live Demo](https://shubh73-medium.vercel.app/)
+### ✨ [Live Demo](https://shubh73-airbnb.vercel.app/)
 
 ## Getting Started 
 
