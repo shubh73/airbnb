@@ -1,0 +1,25 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@react-hook/media-query": "^1.1.1",
+    "date-fns": "^2.28.0",
+    "geolib": "^3.3.3",
+    "next": "latest",
+    "nprogress": "^0.2.0",
+    "react": "^17.0.2",
+    "react-date-range": "^1.4.0",
+    "react-dom": "^17.0.2",
+    "react-feather": "^2.0.9",
+    "react-is": "^17.0.2",
+    "react-map-gl": "6.1.19",
+    "styled-components": "^5.2.3"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.12.0"
+  }
+}
